@@ -1,18 +1,18 @@
 This Repository shows my Portfolio of small projects:
 
-1. Data cleaning project of the Nashville Housing dataset 
+**1. Data cleaning project of the Nashville Housing dataset **
 
-Dataset
+**Dataset**
 Nashville Housing Data for Data Cleaning.xlsx
 
-Script
+**Script**
 NashvillePortfolioProject.sql
 
-2. Exploration dataset from Covid 
+**2. Exploration dataset from Covid **
 
-Datasets
+**Datasets**
 CovidDeaths.xlsx
 CovidVaccinations.xlsx
 
-Script 
+**Script **
 CovidPortfolioproject.sql
